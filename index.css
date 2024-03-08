@@ -1,0 +1,38 @@
+.d-block {
+    border-radius: 50%;
+    
+}
+
+/* .container {
+    margin-left: 0;
+    margin-right: 0;
+} */
+.mx-lg-auto {
+    border-radius: 5px;
+}
+.px-4 {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+}
+body {
+    margin: 0;
+    padding: 0;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+}
+.footer {
+   background-color: #99e0e0;
+   text-decoration: none;
+  color: #99e0e0;
+}
+.display-5 {
+    color: rgb(134, 233, 233);
+    font-family: "Sacramento" , cursive;
+}
+.dots {
+    display: flex;
+    justify-content: center;
+}
+
+
+
